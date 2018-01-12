@@ -1,2 +1,2 @@
 # python
-learn py
+learn py the hard way yeh
