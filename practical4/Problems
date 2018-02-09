@@ -1,0 +1,45 @@
+1 (Summing series) q1_sum_series1.py
+Write a recursive function sum_series1(i) to compute the following series: 
+
+
+2 (Summing series) q2_sum_series2.py
+Write a recursive function sum_series2(i) to compute the following series: 
+
+
+3 (Computing greatest common divisor using recursion) q3_find_gcd.py
+The greatest common divisor (GCD) of two positive integers m and n, gcd(m, n) can be defined recursively as follows: 
+
+If m % n is 0, gcd(m, n) is n.
+Otherwise, gcd(m, n) is gcd(n, m % n).
+
+Write a recursive function gcd(m, n) to find the GCD. Write a test program that computes gcd(24, 16) and gcd(255, 25).
+
+
+4 (Reverse the digits in an integer recursively) q4_print_reverse.py
+Write a recursive function that reverses the digits of an integer n: 
+
+For example, reverse_int(12345) displays 54321.
+
+
+5 (Occurrences of a specified character in a string) q5_count_letter.py
+Write a recursive function count_letter(str, ch) that finds the number of occurrences of a specified letter ch in a string str: 
+
+For example, count_letter("Welcome", 'e') returns 2.
+ 
+
+6 (Summing the digits in an integer using recursion) q6_compute_sum.py
+Write a recursive function sum_digits(n) that computes the sum of the digits in an integer n: 
+
+For example, sum_digits(234) returns 9.
+ 
+
+7 (Finding the largest number in an array) q7_find_largest.py
+Write a recursive function find_largest(alist) that returns the largest integer in an array alist.  
+
+For example, given alist = [5, 1, 8, 7, 2], find_largest(alist) returns 8.
+
+
+8 (Finding the number of uppercase letters in a string) q8_find_uppercase.py
+Write a recursive function find_num_uppercase(str) to return the number of uppercase letters in a string str.
+
+For example, find_num_uppercase('Good MorninG!') returns 3.
